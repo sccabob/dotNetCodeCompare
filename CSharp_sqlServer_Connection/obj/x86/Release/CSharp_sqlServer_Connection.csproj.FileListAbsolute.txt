@@ -1,0 +1,9 @@
+C:\Users\Public\Documents\CSharp_sqlServer_Connection\CSharp_sqlServer_Connection\bin\Release\CSharp_sqlServer_Connection.exe.config
+C:\Users\Public\Documents\CSharp_sqlServer_Connection\CSharp_sqlServer_Connection\bin\Release\CSharp_sqlServer_Connection.exe
+C:\Users\Public\Documents\CSharp_sqlServer_Connection\CSharp_sqlServer_Connection\bin\Release\CSharp_sqlServer_Connection.pdb
+C:\Users\Public\Documents\CSharp_sqlServer_Connection\CSharp_sqlServer_Connection\obj\x86\Release\CSharp_sqlServer_Connection.frmCSharpCode.resources
+C:\Users\Public\Documents\CSharp_sqlServer_Connection\CSharp_sqlServer_Connection\obj\x86\Release\CSharp_sqlServer_Connection.frmGetCSharpData.resources
+C:\Users\Public\Documents\CSharp_sqlServer_Connection\CSharp_sqlServer_Connection\obj\x86\Release\CSharp_sqlServer_Connection.Properties.Resources.resources
+C:\Users\Public\Documents\CSharp_sqlServer_Connection\CSharp_sqlServer_Connection\obj\x86\Release\CSharp_sqlServer_Connection.csproj.GenerateResource.Cache
+C:\Users\Public\Documents\CSharp_sqlServer_Connection\CSharp_sqlServer_Connection\obj\x86\Release\CSharp_sqlServer_Connection.exe
+C:\Users\Public\Documents\CSharp_sqlServer_Connection\CSharp_sqlServer_Connection\obj\x86\Release\CSharp_sqlServer_Connection.pdb

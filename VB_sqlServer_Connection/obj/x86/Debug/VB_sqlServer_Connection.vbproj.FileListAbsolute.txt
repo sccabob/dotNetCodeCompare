@@ -1,0 +1,34 @@
+C:\Users\Public\Documents\CSharp_sqlServer_Connection\VB_sqlServer_Connection\bin\Debug\VB_sqlServer_Connection.exe.config
+C:\Users\Public\Documents\CSharp_sqlServer_Connection\VB_sqlServer_Connection\bin\Debug\VB_sqlServer_Connection.exe
+C:\Users\Public\Documents\CSharp_sqlServer_Connection\VB_sqlServer_Connection\bin\Debug\VB_sqlServer_Connection.pdb
+C:\Users\Public\Documents\CSharp_sqlServer_Connection\VB_sqlServer_Connection\bin\Debug\VB_sqlServer_Connection.xml
+C:\Users\Public\Documents\CSharp_sqlServer_Connection\VB_sqlServer_Connection\obj\x86\Debug\VB_sqlServer_Connection.Resources.resources
+C:\Users\Public\Documents\CSharp_sqlServer_Connection\VB_sqlServer_Connection\obj\x86\Debug\VB_sqlServer_Connection.vbproj.GenerateResource.Cache
+C:\Users\Public\Documents\CSharp_sqlServer_Connection\VB_sqlServer_Connection\obj\x86\Debug\VB_sqlServer_Connection.exe
+C:\Users\Public\Documents\CSharp_sqlServer_Connection\VB_sqlServer_Connection\obj\x86\Debug\VB_sqlServer_Connection.xml
+C:\Users\Public\Documents\CSharp_sqlServer_Connection\VB_sqlServer_Connection\obj\x86\Debug\VB_sqlServer_Connection.pdb
+C:\Users\Public\Documents\CSharp_sqlServer_Connection\VB_sqlServer_Connection\obj\x86\Debug\VB_sqlServer_Connection.frmGetVBData.resources
+C:\Users\Public\Documents\CSharp_sqlServer_Connection\VB_sqlServer_Connection\obj\x86\Debug\VB_sqlServer_Connection.frmVBCode.resources
+C:\Users\Public\Documents\Finished Projects\dotNet Code Compare\VB_sqlServer_Connection\bin\Debug\VB_sqlServer_Connection.exe.config
+C:\Users\Public\Documents\Finished Projects\dotNet Code Compare\VB_sqlServer_Connection\bin\Debug\VB_sqlServer_Connection.exe
+C:\Users\Public\Documents\Finished Projects\dotNet Code Compare\VB_sqlServer_Connection\bin\Debug\VB_sqlServer_Connection.pdb
+C:\Users\Public\Documents\Finished Projects\dotNet Code Compare\VB_sqlServer_Connection\bin\Debug\VB_sqlServer_Connection.xml
+C:\Users\Public\Documents\Finished Projects\dotNet Code Compare\VB_sqlServer_Connection\obj\x86\Debug\VB_sqlServer_Connection.frmGetVBData.resources
+C:\Users\Public\Documents\Finished Projects\dotNet Code Compare\VB_sqlServer_Connection\obj\x86\Debug\VB_sqlServer_Connection.frmVBCode.resources
+C:\Users\Public\Documents\Finished Projects\dotNet Code Compare\VB_sqlServer_Connection\obj\x86\Debug\VB_sqlServer_Connection.Resources.resources
+C:\Users\Public\Documents\Finished Projects\dotNet Code Compare\VB_sqlServer_Connection\obj\x86\Debug\VB_sqlServer_Connection.vbproj.GenerateResource.Cache
+C:\Users\Public\Documents\Finished Projects\dotNet Code Compare\VB_sqlServer_Connection\obj\x86\Debug\VB_sqlServer_Connection.exe
+C:\Users\Public\Documents\Finished Projects\dotNet Code Compare\VB_sqlServer_Connection\obj\x86\Debug\VB_sqlServer_Connection.xml
+C:\Users\Public\Documents\Finished Projects\dotNet Code Compare\VB_sqlServer_Connection\obj\x86\Debug\VB_sqlServer_Connection.pdb
+C:\Users\Owner\Documents\Old Code Samples\dotNet Code Compare\VB_sqlServer_Connection\bin\Debug\VB_sqlServer_Connection.exe.config
+C:\Users\Owner\Documents\Old Code Samples\dotNet Code Compare\VB_sqlServer_Connection\bin\Debug\VB_sqlServer_Connection.exe
+C:\Users\Owner\Documents\Old Code Samples\dotNet Code Compare\VB_sqlServer_Connection\bin\Debug\VB_sqlServer_Connection.pdb
+C:\Users\Owner\Documents\Old Code Samples\dotNet Code Compare\VB_sqlServer_Connection\bin\Debug\VB_sqlServer_Connection.xml
+C:\Users\Owner\Documents\Old Code Samples\dotNet Code Compare\VB_sqlServer_Connection\obj\x86\Debug\VB_sqlServer_Connection.vbprojResolveAssemblyReference.cache
+C:\Users\Owner\Documents\Old Code Samples\dotNet Code Compare\VB_sqlServer_Connection\obj\x86\Debug\VB_sqlServer_Connection.frmGetVBData.resources
+C:\Users\Owner\Documents\Old Code Samples\dotNet Code Compare\VB_sqlServer_Connection\obj\x86\Debug\VB_sqlServer_Connection.frmVBCode.resources
+C:\Users\Owner\Documents\Old Code Samples\dotNet Code Compare\VB_sqlServer_Connection\obj\x86\Debug\VB_sqlServer_Connection.Resources.resources
+C:\Users\Owner\Documents\Old Code Samples\dotNet Code Compare\VB_sqlServer_Connection\obj\x86\Debug\VB_sqlServer_Connection.vbproj.GenerateResource.Cache
+C:\Users\Owner\Documents\Old Code Samples\dotNet Code Compare\VB_sqlServer_Connection\obj\x86\Debug\VB_sqlServer_Connection.exe
+C:\Users\Owner\Documents\Old Code Samples\dotNet Code Compare\VB_sqlServer_Connection\obj\x86\Debug\VB_sqlServer_Connection.xml
+C:\Users\Owner\Documents\Old Code Samples\dotNet Code Compare\VB_sqlServer_Connection\obj\x86\Debug\VB_sqlServer_Connection.pdb

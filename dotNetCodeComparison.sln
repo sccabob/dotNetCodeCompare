@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp_sqlServer_Connection", "CSharp_sqlServer_Connection\CSharp_sqlServer_Connection.csproj", "{5B5F7253-41C7-42E8-9E33-A72C5534D272}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "VB_sqlServer_Connection", "VB_sqlServer_Connection\VB_sqlServer_Connection.vbproj", "{009FC495-BA83-41B9-9B32-5555DA25313B}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "StartWindow", "StartWindow\StartWindow.vbproj", "{0E86621E-4C12-4B5D-A0B5-6CD3F5A92A82}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B5F7253-41C7-42E8-9E33-A72C5534D272}.Debug|x86.ActiveCfg = Debug|x86
+		{5B5F7253-41C7-42E8-9E33-A72C5534D272}.Debug|x86.Build.0 = Debug|x86
+		{5B5F7253-41C7-42E8-9E33-A72C5534D272}.Release|x86.ActiveCfg = Release|x86
+		{5B5F7253-41C7-42E8-9E33-A72C5534D272}.Release|x86.Build.0 = Release|x86
+		{009FC495-BA83-41B9-9B32-5555DA25313B}.Debug|x86.ActiveCfg = Debug|x86
+		{009FC495-BA83-41B9-9B32-5555DA25313B}.Debug|x86.Build.0 = Debug|x86
+		{009FC495-BA83-41B9-9B32-5555DA25313B}.Release|x86.ActiveCfg = Release|x86
+		{009FC495-BA83-41B9-9B32-5555DA25313B}.Release|x86.Build.0 = Release|x86
+		{0E86621E-4C12-4B5D-A0B5-6CD3F5A92A82}.Debug|x86.ActiveCfg = Debug|x86
+		{0E86621E-4C12-4B5D-A0B5-6CD3F5A92A82}.Debug|x86.Build.0 = Debug|x86
+		{0E86621E-4C12-4B5D-A0B5-6CD3F5A92A82}.Release|x86.ActiveCfg = Release|x86
+		{0E86621E-4C12-4B5D-A0B5-6CD3F5A92A82}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

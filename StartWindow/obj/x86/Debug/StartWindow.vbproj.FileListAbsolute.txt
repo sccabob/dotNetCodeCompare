@@ -1,0 +1,48 @@
+C:\Users\Public\Documents\CSharp_sqlServer_Connection\StartWindow\bin\Debug\StartWindow.exe
+C:\Users\Public\Documents\CSharp_sqlServer_Connection\StartWindow\bin\Debug\StartWindow.pdb
+C:\Users\Public\Documents\CSharp_sqlServer_Connection\StartWindow\bin\Debug\StartWindow.xml
+C:\Users\Public\Documents\CSharp_sqlServer_Connection\StartWindow\obj\x86\Debug\StartWindow.frmStartWindow.resources
+C:\Users\Public\Documents\CSharp_sqlServer_Connection\StartWindow\obj\x86\Debug\StartWindow.Resources.resources
+C:\Users\Public\Documents\CSharp_sqlServer_Connection\StartWindow\obj\x86\Debug\StartWindow.vbproj.GenerateResource.Cache
+C:\Users\Public\Documents\CSharp_sqlServer_Connection\StartWindow\obj\x86\Debug\StartWindow.exe
+C:\Users\Public\Documents\CSharp_sqlServer_Connection\StartWindow\obj\x86\Debug\StartWindow.xml
+C:\Users\Public\Documents\CSharp_sqlServer_Connection\StartWindow\obj\x86\Debug\StartWindow.pdb
+C:\Users\Public\Documents\CSharp_sqlServer_Connection\StartWindow\bin\Debug\VB_sqlServer_Connection.exe
+C:\Users\Public\Documents\CSharp_sqlServer_Connection\StartWindow\bin\Debug\VB_sqlServer_Connection.pdb
+C:\Users\Public\Documents\CSharp_sqlServer_Connection\StartWindow\bin\Debug\VB_sqlServer_Connection.xml
+C:\Users\Public\Documents\CSharp_sqlServer_Connection\StartWindow\obj\x86\Debug\StartWindow.vbprojResolveAssemblyReference.cache
+C:\Users\Public\Documents\CSharp_sqlServer_Connection\StartWindow\bin\Debug\CSharp_sqlServer_Connection.exe
+C:\Users\Public\Documents\CSharp_sqlServer_Connection\StartWindow\bin\Debug\CSharp_sqlServer_Connection.pdb
+C:\Users\Public\Documents\CSharp_sqlServer_Connection\StartWindow\bin\Debug\StartWindow.exe.config
+C:\Users\Public\Documents\Finished Projects\dotNet Code Compare\StartWindow\bin\Debug\StartWindow.exe.config
+C:\Users\Public\Documents\Finished Projects\dotNet Code Compare\StartWindow\obj\x86\Debug\StartWindow.exe
+C:\Users\Public\Documents\Finished Projects\dotNet Code Compare\StartWindow\obj\x86\Debug\StartWindow.xml
+C:\Users\Public\Documents\Finished Projects\dotNet Code Compare\StartWindow\obj\x86\Debug\StartWindow.pdb
+C:\Users\Public\Documents\Finished Projects\dotNet Code Compare\StartWindow\bin\Debug\StartWindow.exe
+C:\Users\Public\Documents\Finished Projects\dotNet Code Compare\StartWindow\bin\Debug\StartWindow.pdb
+C:\Users\Public\Documents\Finished Projects\dotNet Code Compare\StartWindow\bin\Debug\StartWindow.xml
+C:\Users\Public\Documents\Finished Projects\dotNet Code Compare\StartWindow\bin\Debug\CSharp_sqlServer_Connection.exe
+C:\Users\Public\Documents\Finished Projects\dotNet Code Compare\StartWindow\bin\Debug\VB_sqlServer_Connection.exe
+C:\Users\Public\Documents\Finished Projects\dotNet Code Compare\StartWindow\bin\Debug\CSharp_sqlServer_Connection.pdb
+C:\Users\Public\Documents\Finished Projects\dotNet Code Compare\StartWindow\bin\Debug\VB_sqlServer_Connection.pdb
+C:\Users\Public\Documents\Finished Projects\dotNet Code Compare\StartWindow\bin\Debug\VB_sqlServer_Connection.xml
+C:\Users\Public\Documents\Finished Projects\dotNet Code Compare\StartWindow\obj\x86\Debug\StartWindow.vbprojResolveAssemblyReference.cache
+C:\Users\Public\Documents\Finished Projects\dotNet Code Compare\StartWindow\obj\x86\Debug\StartWindow.frmStartWindow.resources
+C:\Users\Public\Documents\Finished Projects\dotNet Code Compare\StartWindow\obj\x86\Debug\StartWindow.Resources.resources
+C:\Users\Public\Documents\Finished Projects\dotNet Code Compare\StartWindow\obj\x86\Debug\StartWindow.vbproj.GenerateResource.Cache
+C:\Users\Owner\Documents\Old Code Samples\dotNet Code Compare\StartWindow\bin\Debug\StartWindow.exe.config
+C:\Users\Owner\Documents\Old Code Samples\dotNet Code Compare\StartWindow\obj\x86\Debug\StartWindow.exe
+C:\Users\Owner\Documents\Old Code Samples\dotNet Code Compare\StartWindow\obj\x86\Debug\StartWindow.xml
+C:\Users\Owner\Documents\Old Code Samples\dotNet Code Compare\StartWindow\obj\x86\Debug\StartWindow.pdb
+C:\Users\Owner\Documents\Old Code Samples\dotNet Code Compare\StartWindow\bin\Debug\StartWindow.exe
+C:\Users\Owner\Documents\Old Code Samples\dotNet Code Compare\StartWindow\bin\Debug\StartWindow.pdb
+C:\Users\Owner\Documents\Old Code Samples\dotNet Code Compare\StartWindow\bin\Debug\StartWindow.xml
+C:\Users\Owner\Documents\Old Code Samples\dotNet Code Compare\StartWindow\bin\Debug\CSharp_sqlServer_Connection.exe
+C:\Users\Owner\Documents\Old Code Samples\dotNet Code Compare\StartWindow\bin\Debug\VB_sqlServer_Connection.exe
+C:\Users\Owner\Documents\Old Code Samples\dotNet Code Compare\StartWindow\bin\Debug\CSharp_sqlServer_Connection.pdb
+C:\Users\Owner\Documents\Old Code Samples\dotNet Code Compare\StartWindow\bin\Debug\VB_sqlServer_Connection.pdb
+C:\Users\Owner\Documents\Old Code Samples\dotNet Code Compare\StartWindow\bin\Debug\VB_sqlServer_Connection.xml
+C:\Users\Owner\Documents\Old Code Samples\dotNet Code Compare\StartWindow\obj\x86\Debug\StartWindow.vbprojResolveAssemblyReference.cache
+C:\Users\Owner\Documents\Old Code Samples\dotNet Code Compare\StartWindow\obj\x86\Debug\StartWindow.frmStartWindow.resources
+C:\Users\Owner\Documents\Old Code Samples\dotNet Code Compare\StartWindow\obj\x86\Debug\StartWindow.Resources.resources
+C:\Users\Owner\Documents\Old Code Samples\dotNet Code Compare\StartWindow\obj\x86\Debug\StartWindow.vbproj.GenerateResource.Cache

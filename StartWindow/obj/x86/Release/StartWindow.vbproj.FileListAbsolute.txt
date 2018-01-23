@@ -1,0 +1,15 @@
+C:\Users\Public\Documents\CSharp_sqlServer_Connection\StartWindow\bin\Release\StartWindow.exe
+C:\Users\Public\Documents\CSharp_sqlServer_Connection\StartWindow\bin\Release\StartWindow.pdb
+C:\Users\Public\Documents\CSharp_sqlServer_Connection\StartWindow\bin\Release\StartWindow.xml
+C:\Users\Public\Documents\CSharp_sqlServer_Connection\StartWindow\bin\Release\CSharp_sqlServer_Connection.exe
+C:\Users\Public\Documents\CSharp_sqlServer_Connection\StartWindow\bin\Release\VB_sqlServer_Connection.exe
+C:\Users\Public\Documents\CSharp_sqlServer_Connection\StartWindow\bin\Release\CSharp_sqlServer_Connection.pdb
+C:\Users\Public\Documents\CSharp_sqlServer_Connection\StartWindow\bin\Release\VB_sqlServer_Connection.pdb
+C:\Users\Public\Documents\CSharp_sqlServer_Connection\StartWindow\bin\Release\VB_sqlServer_Connection.xml
+C:\Users\Public\Documents\CSharp_sqlServer_Connection\StartWindow\obj\x86\Release\StartWindow.vbprojResolveAssemblyReference.cache
+C:\Users\Public\Documents\CSharp_sqlServer_Connection\StartWindow\obj\x86\Release\StartWindow.frmStartWindow.resources
+C:\Users\Public\Documents\CSharp_sqlServer_Connection\StartWindow\obj\x86\Release\StartWindow.Resources.resources
+C:\Users\Public\Documents\CSharp_sqlServer_Connection\StartWindow\obj\x86\Release\StartWindow.vbproj.GenerateResource.Cache
+C:\Users\Public\Documents\CSharp_sqlServer_Connection\StartWindow\obj\x86\Release\StartWindow.exe
+C:\Users\Public\Documents\CSharp_sqlServer_Connection\StartWindow\obj\x86\Release\StartWindow.xml
+C:\Users\Public\Documents\CSharp_sqlServer_Connection\StartWindow\obj\x86\Release\StartWindow.pdb
